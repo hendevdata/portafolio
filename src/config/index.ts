@@ -66,7 +66,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "April 2024",
       endDate: "Dec 2024",
       summary:
-        "Analyze large datasets using Python, Pandas, and NumPy to derive actionable insights. Use Streamlit as a reporting tool to create dynamic dashboards for data visualization and trend analysis. Collaborate with cross-functional teams to improve decision-making processes through data-driven reports.",
+        " Analyze large datasets using Python, Pandas, and NumPy to derive actionable insights. Use Streamlit as a reporting tool to create dynamic dashboards for data visualization and trend analysis. Collaborate with cross-functional teams to improve decision-making processes through data-driven reports. ",
     },
   ],
   projects: [
