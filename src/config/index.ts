@@ -38,11 +38,11 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "May 2023",
       endDate: "Current",
       summary: [
-        " Installed required plugins and additional coding to fit final design and functionality requirement",
-        " Converted design assets into component-based HTML, CSS and JavaScript.",
-        " Migrated existing websites to WordPress platform without loss of data or functionality, streamlining content updates for clients.",
-        " Coded websites using HTML, CSS, JavaScript, and jQuery languages..",
-        " Enhanced user experience by implementing responsive web design and optimizing website performance.",
+        "Installed required plugins and additional coding to fit final design and functionality requirement",
+        "Converted design assets into component-based HTML, CSS and JavaScript.",
+        "Migrated existing websites to WordPress platform without loss of data or functionality, streamlining content updates for clients.",
+        "Coded websites using HTML, CSS, JavaScript, and jQuery languages..",
+        "Enhanced user experience by implementing responsive web design and optimizing website performance.",
 
       ],
     },
@@ -52,10 +52,10 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2024",
       endDate: "Current",
       summary: [
-        " Quality Assurance: Validating email campaigns for cross-platform functionality, visual consistency, and alignment with industry standards.  ",
-        " Performance Optimization: Analyzing engagement metrics, segmentation strategies, and personalization techniques to refine campaign effectiveness.  ",
-        " Automation & Integration: Developing tools, scripts, and workflows to simplify processes and enhance operational agility. ",
-        " Using a blend of HTML, CSS, JavaScript, Python, and tools such as Movable Ink, MessageGears, Jenkins, Google Cloud, and BigQuery, we work alongside analysts, engineers, QA teams, and stakeholders to innovate and scale The Home Depot’s email marketing initiatives.",
+        "Quality Assurance: Validating email campaigns for cross-platform functionality, visual consistency, and alignment with industry standards.  ",
+        "Performance Optimization: Analyzing engagement metrics, segmentation strategies, and personalization techniques to refine campaign effectiveness.  ",
+        "Automation & Integration: Developing tools, scripts, and workflows to simplify processes and enhance operational agility. ",
+        "Using a blend of HTML, CSS, JavaScript, Python, and tools such as Movable Ink, MessageGears, Jenkins, Google Cloud, and BigQuery, we work alongside analysts, engineers, QA teams, and stakeholders to innovate and scale The Home Depot’s email marketing initiatives.",
 
 
       ],
@@ -66,7 +66,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "April 2024",
       endDate: "Dec 2024",
       summary:
-        " Analyze large datasets using Python, Pandas, and NumPy to derive actionable insights. Use Streamlit as a reporting tool to create dynamic dashboards for data visualization and trend analysis. Collaborate with cross-functional teams to improve decision-making processes through data-driven reports. ",
+        "Analyze large datasets using Python, Pandas, and NumPy to derive actionable insights. Use Streamlit as a reporting tool to create dynamic dashboards for data visualization and trend analysis. Collaborate with cross-functional teams to improve decision-making processes through data-driven reports. ",
     },
   ],
   projects: [
